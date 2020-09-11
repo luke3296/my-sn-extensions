@@ -1,8 +1,8 @@
 {
     "identifier": "org.yourdomain.my-extension",
     "name": "blue-pastsl",
-    "content_type": "SN|Component",
+    "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.0.0",
+    "version": "0.0.4",
     "url": "hhttps://listed.to/p/mswV5l3Af6"
   }
